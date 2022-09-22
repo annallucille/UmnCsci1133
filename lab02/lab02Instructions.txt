@@ -1,0 +1,14 @@
+Lab 02 Instructions 
+
+
+Workout 
+  1) Windchill
+   Write a Python program that will prompt the user to enter a temperature t in degrees Fahrenheit and a wind velocity v 
+   in miles/hour. Compute and output the Wind Chill Temperature according to the following formula (this is a math formula; 
+   you will need to change the syntax a little to convert it to Python):
+      wind_chill = 35.74 + 0.6215t - 35.75(v^0.16) + 0.4275t(v^0.16)
+  2) Spare Change
+   Write a Python program that will input a monetary (dollar) value and determine the minimum number of coins (quarters,
+   dimes, nickels and pennies) whose total equals the entered value.
+   Your program must input two integer values representing the dollars and cents, respectively, and then determine and 
+   output the minimum number of quarters, dimes, nickels and pennies whose total equals the entered value.  
