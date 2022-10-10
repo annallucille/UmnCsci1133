@@ -7,7 +7,7 @@ def roundit(number):
         number = int(number)
     else: 
         return 'Already Rounded :)' 
-    return 'Rounded number is', number 
+    return 'Rounded number is', int(number)
 
 # (2) Test case
 # For my specific function at least 4 would be needed
