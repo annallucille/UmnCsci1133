@@ -135,3 +135,5 @@ def min_and_max_stock_prices(fname):
     print(y, 'lowest closing value')
     print(z, 'is the average')
     print(a, 'is the median')
+    
+    
